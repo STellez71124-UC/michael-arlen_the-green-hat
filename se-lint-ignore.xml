@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-11.xhtml">
+		<ignore>
+			<code>t-004</code>
+			<reason>Single quotes are deliberately placed inside of already existing single quotes in this ebook to highlight the usage of the phrase "I love you" and to reaffirm the character's true and genuine affection held towards another individual since a young age.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
